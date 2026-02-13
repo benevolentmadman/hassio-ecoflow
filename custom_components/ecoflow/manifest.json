@@ -14,4 +14,5 @@
     }
   ],
   "iot_class": "local_push"
+  ,"homeassistant": "2026.2.1"
 }
