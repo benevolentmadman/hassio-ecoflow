@@ -1,10 +1,10 @@
 ![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)
 
-[![Validate with hassfest](https://github.com/klevytskyi/hassio-ecoflow/actions/workflows/hassfest.yml/badge.svg)](https://github.com/klevytskyi/hassio-ecoflow/actions/workflows/hassfest.yml)
-[![HACS Action](https://github.com/klevytskyi/hassio-ecoflow/actions/workflows/hacs.yml/badge.svg)](https://github.com/klevytskyi/hassio-ecoflow/actions/workflows/hacs.yml)
-[![CodeQL](https://github.com/klevytskyi/hassio-ecoflow/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/klevytskyi/hassio-ecoflow/actions/workflows/codeql-analysis.yml)
+[![Validate with hassfest](https://github.com/benevolentmadman/hassio-ecoflow/actions/workflows/hassfest.yml/badge.svg)](https://github.com/benevolentmadman/hassio-ecoflow/actions/workflows/hassfest.yml)
+[![HACS Action](https://github.com/benevolentmadman/hassio-ecoflow/actions/workflows/hacs.yml/badge.svg)](https://github.com/benevolentmadman/hassio-ecoflow/actions/workflows/hacs.yml)
+[![CodeQL](https://github.com/benevolentmadman/hassio-ecoflow/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/benevolentmadman/hassio-ecoflow/actions/workflows/codeql-analysis.yml)
 
-# ⚠️ THIS IS THE FORK OF [vwt12eh8/hassio-ecoflow](https://github.com/vwt12eh8/hassio-ecoflow/) WHICH WASN'T SUPPORTED FOR A WHILE
+# ⚠️ THIS IS A FORK OF [klevytskyi/hassio-ecoflow](https://github.com/klevytskyi/hassio-ecoflow) which is a fork of [vwt12eh8/hassio-ecoflow](https://github.com/vwt12eh8/hassio-ecoflow/) WHICH WASN'T SUPPORTED FOR A WHILE
 
 # EcoFlow Portable Power Station Integration for Home Assistant
 
@@ -14,7 +14,7 @@ Therefore, if the devices are not on the same network, they cannot synchronize t
 This integration uses a private API.
 Future device updates may prevent integration.
 
-Requires Home Assistant Core 2025.1.0 or later for operation.
+Requires Home Assistant Core 2026.2.1 or later for operation.
 
 ## Installation
 
